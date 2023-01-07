@@ -3,7 +3,7 @@ library(hoopR)
 
 # Import data from scraper ----
 
-gameData = read_csv("KenPomGames.csv")
+gameData = read_csv("data/KenPomGames.csv")
 
 extractWinningScore = function(x) {
   gsub("\\w,\\s","",x) %>%
@@ -29,6 +29,8 @@ validGames = gameData %>%
          opp_score = ifelse(win_loss == 0, extractWinningScore(result),extractLosingScore(result))) %>%
   mutate(team_ppp = team_score/poss,
          opp_ppp = opp_score/poss)
+
+write_csv(validGames, "data/KenPomGamesCleaned.csv")
 
 validTeams = unique(validGames$team)
 
@@ -73,7 +75,10 @@ teamRatings = map_dfr(.x = validTeams, .f = ~ generateTeamRating(.x))
 teamRatingsFinal = teamRatings %>%
   mutate(off_rk = dense_rank(desc(season_ortg)),
          def_rk = dense_rank(desc(season_drtg)),
-         net_rk = dense_rank(desc(season_nrtg)))
+         net_rk = dense_rank(desc(season_nrtg)),
+         tempo_rk = dense_rank(desc(avg_poss)))
+
+write_csv(teamRatingsFinal,"data/TeamRatings.csv")
 
 # Game predictions ----
 
@@ -107,4 +112,4 @@ gameProjector = function(team1, team2, location = "neutral") {
   data.frame(team_1 = team1, team_1_score = xTeam1PTS, team_2 = team2, team_2_score = xTeam2PTS, poss = xPoss, location = location)
 }
 
-gameProjector("Virginia Tech","Virginia","away")
+# gameProjector("Virginia Tech","Virginia","away")
