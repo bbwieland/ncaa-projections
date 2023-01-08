@@ -1,2 +1,2 @@
-source("scripts/KenPom-Scraper.R")
-source("scripts/KenPom-Style-Efficiency-Model.R")
+source("KenPom-Scraper.R")
+source("KenPom-Style-Efficiency-Model.R")

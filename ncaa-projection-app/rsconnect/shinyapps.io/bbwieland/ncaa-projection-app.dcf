@@ -5,9 +5,9 @@ account: bbwieland
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7990292
-bundleId: 6708518
+bundleId: 6710673
 url: https://bbwieland.shinyapps.io/ncaa-projection-app/
-when: 1673125841.82799
-lastSyncTime: 1673125841.828
+when: 1673205544.45443
+lastSyncTime: 1673205544.45445
 asMultiple: FALSE
 asStatic: FALSE

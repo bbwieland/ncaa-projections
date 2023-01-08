@@ -36,19 +36,49 @@ validTeams = unique(validGames$team)
 
 ## Team rating formula ----
 
+inputTeam = "Virginia"
 generateTeamRating = function(inputTeam) {
   
+  ## calculate magnitude of home-court adjustment
+  # note: numbers for average HCA and tempo pulled from kenpom
+  ncaa_avg_hca = 3.0
+  ncaa_avg_tempo = 68.6
+  ncaa_hca_per_100 = ncaa_avg_hca * (100/ncaa_avg_tempo)
+  ncaa_hca_per_poss = ncaa_hca_per_100 / 100
+  
+  ## grab team games
   teamGames = validGames %>%
     filter(team == inputTeam)
   
+  ## apply home court adjustment to team games
+  teamGames = teamGames %>%
+    mutate(home_away_adjustment = case_when(
+      location == "Home" ~ ncaa_hca_per_poss,
+      location == "Away" ~ -ncaa_hca_per_poss,
+      TRUE ~ 0
+    )) %>%
+    mutate(team_ppp = team_ppp - home_away_adjustment/2,
+           opp_ppp = opp_ppp + home_away_adjustment/2)
+  
+  ## grab opponents
   opponents = unique(teamGames$opponent)
   
+  ## grab data from all opponent games
   opponentGames = validGames %>%
     filter(team %in% opponents & opponent != inputTeam)
   
+  ## compute opponent ratings in games NOT against team
   opponentRatings = opponentGames %>%
     group_by(team) %>%
     filter(opponent != inputTeam) %>%
+    # apply home court adjustment
+    mutate(home_away_adjustment = case_when(
+      location == "Home" ~ ncaa_hca_per_poss*poss,
+      location == "Away" ~ -ncaa_hca_per_poss*poss,
+      TRUE ~ 0
+    )) %>%
+    mutate(team_score = team_score - home_away_adjustment/2,
+           opp_score = opp_score + home_away_adjustment/2) %>%
     summarise(season_ppp_opp_off = sum(team_score)/sum(poss),
               season_ppp_opp_def = sum(opp_score)/sum(poss))
   
@@ -79,37 +109,3 @@ teamRatingsFinal = teamRatings %>%
          tempo_rk = dense_rank(desc(avg_poss)))
 
 write_csv(teamRatingsFinal,"data/TeamRatings.csv")
-
-# Game predictions ----
-
-## need to set a baseline variable for xPPP
-
-gameProjector = function(team1, team2, location = "neutral") {
-  
-  ncaaAveragePPP = (sum(validGames$team_score) + sum(validGames$opp_score))/(2*sum(validGames$poss))
-  
-  HCA_Value = 4.5
-  
-  HCA = case_when(
-    location == "home" ~ HCA_Value,
-    location == "away" ~ -HCA_Value,
-    location == "neutral" ~ 0
-  )
-  
-  team1Ratings = teamRatings %>%
-    filter(team == team1)
-  
-  team2Ratings = teamRatings %>%
-    filter(team == team2)
-  
-  xTeam1PPP = team1Ratings$season_ortg - team2Ratings$season_drtg + HCA/200 + ncaaAveragePPP
-  xTeam2PPP = team2Ratings$season_ortg - team1Ratings$season_drtg - HCA/200 + ncaaAveragePPP
-  #xPoss = mean(c(team1Ratings$avg_poss,team2Ratings$avg_poss))
-  xPoss = sqrt(team1Ratings$avg_poss*team2Ratings$avg_poss)
-  xTeam1PTS = xTeam1PPP*xPoss
-  xTeam2PTS = xTeam2PPP*xPoss
-  
-  data.frame(team_1 = team1, team_1_score = xTeam1PTS, team_2 = team2, team_2_score = xTeam2PTS, poss = xPoss, location = location)
-}
-
-# gameProjector("Virginia Tech","Virginia","away")
