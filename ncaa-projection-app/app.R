@@ -43,8 +43,17 @@ gameProjector = function(team1, team2, location = "home") {
   
   xTeam1PPP = team1Ratings$season_ortg - team2Ratings$season_drtg + ncaaAveragePPP + HCA/2
   xTeam2PPP = team2Ratings$season_ortg - team1Ratings$season_drtg + ncaaAveragePPP - HCA/2
+  
   #xPoss = mean(c(team1Ratings$avg_poss,team2Ratings$avg_poss))
-  xPoss = sqrt(team1Ratings$avg_poss*team2Ratings$avg_poss)
+  #xPoss = sqrt(team1Ratings$avg_poss*team2Ratings$avg_poss)
+  
+  avg_tempo = mean(ratings_raw$avg_poss)
+  
+  team_1_diff = team1Ratings$avg_poss - avg_tempo
+  team_2_diff = team2Ratings$avg_poss - avg_tempo
+  
+  xPoss = avg_tempo + team_1_diff + team_2_diff
+  
   xTeam1PTS = xTeam1PPP*xPoss
   xTeam2PTS = xTeam2PPP*xPoss
   
