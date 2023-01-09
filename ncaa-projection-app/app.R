@@ -9,7 +9,9 @@ library(reactablefmtr)
 
 library(shinythemes)
 
-schedule = read_csv("https://raw.githubusercontent.com/bbwieland/ncaa-projections/main/data/Schedule.csv")
+schedule = read_csv("https://raw.githubusercontent.com/bbwieland/ncaa-projections/main/data/Schedule.csv") %>%
+  filter(!is.na(prediction) & !is.na(home_team) & !is.na(road_team))
+
 ratings_raw = read_csv("https://raw.githubusercontent.com/bbwieland/ncaa-projections/main/data/TeamRatings.csv")
 ratings_clean = ratings_raw %>% 
   select(net_rk, team, season_nrtg, season_ortg, off_rk, season_drtg, def_rk, avg_poss, tempo_rk) %>%
