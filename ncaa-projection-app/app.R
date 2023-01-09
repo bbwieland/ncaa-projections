@@ -9,8 +9,6 @@ library(reactablefmtr)
 
 library(shinythemes)
 
-usethis::edit_r_environ()
-
 schedule = read_csv("https://raw.githubusercontent.com/bbwieland/ncaa-projections/main/data/Schedule.csv")
 ratings_raw = read_csv("https://raw.githubusercontent.com/bbwieland/ncaa-projections/main/data/TeamRatings.csv")
 ratings_clean = ratings_raw %>% 
