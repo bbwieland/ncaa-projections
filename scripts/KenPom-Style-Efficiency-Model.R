@@ -3,7 +3,7 @@ library(hoopR)
 
 # Import data from scraper ----
 
-gameData = read_csv("data/KenPomGames.csv")
+gameData = read_csv("/Users/ben/Desktop/ncaa-projections/data/KenPomGames.csv")
 
 extractWinningScore = function(x) {
   gsub("\\w,\\s","",x) %>%
@@ -30,7 +30,7 @@ validGames = gameData %>%
   mutate(team_ppp = team_score/poss,
          opp_ppp = opp_score/poss)
 
-write_csv(validGames, "data/KenPomGamesCleaned.csv")
+write_csv(validGames, "/Users/ben/Desktop/ncaa-projections/data/KenPomGamesCleaned.csv")
 
 validTeams = unique(validGames$team)
 
@@ -108,4 +108,4 @@ teamRatingsFinal = teamRatings %>%
          net_rk = dense_rank(desc(season_nrtg)),
          tempo_rk = dense_rank(desc(avg_poss)))
 
-write_csv(teamRatingsFinal,"data/TeamRatings.csv")
+write_csv(teamRatingsFinal,"/Users/ben/Desktop/ncaa-projections/data/TeamRatings.csv")
