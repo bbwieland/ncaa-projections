@@ -36,7 +36,6 @@ validTeams = unique(validGames$team)
 
 ## Team rating formula ----
 
-inputTeam = "Virginia"
 generateTeamRating = function(inputTeam) {
   
   ## calculate magnitude of home-court adjustment
