@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # Automated pusher script
-GitCommitAutomated.R
+scripts/GitCommitAutomated.R
