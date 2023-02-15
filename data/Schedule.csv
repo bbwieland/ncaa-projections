@@ -1,22 +1,55 @@
 prediction,time_et,location,thrill_score,comeback,excitement,road_rk,road_team,home_rk,home_team,win_rk,win_team,win_score,loss_rk,loss_team,loss_score,poss,mvp,event,date
-Baylor 79-74 (68%),9:00 pm ESPN2,"Waco, TXFerrell Center",70.71,NA,NA,20,West Virginia,12,Baylor,20,West Virginia,12,NA,NA,NA,NA,NA,NA,2023-02-13
-North Carolina 80-77 (62%),7:00 pm ESPN,"Chapel Hill, NCDean E. Smith Center",69.02,NA,NA,35,Miami FL,32,North Carolina,35,Miami FL,32,NA,NA,NA,NA,NA,NA,2023-02-13
-Texas 76-71 (67%),9:00 pm ESPN,"Lubbock, TXUnited Supermarkets Arena",68.63,NA,NA,8,Texas,66,Texas Tech,8,Texas,66,NA,NA,NA,NA,NA,NA,2023-02-13
-Bucknell 68-67 (51%),7:00 pm CBS Sports Network,"Lewisburg, PASojka Pavilion",30.54,NA,NA,246,American,305,Bucknell,246,American,305,NA,NA,NA,NA,NA,NA,2023-02-13
-Howard 72-69 (63%),7:30 pm,"Washington, DCBurr Arena",30.35,NA,NA,250,Maryland Eastern Shore,239,Howard,250,Maryland Eastern Shore,239,NA,NA,NA,NA,NA,NA,2023-02-13
-Morgan St. 77-76 (54%),7:30 pm,"Orangeburg, SCSmith Hammond Middleton Center",30.16,NA,NA,297,Morgan St.,345,South Carolina St.,297,Morgan St.,345,NA,NA,NA,NA,NA,NA,2023-02-13
-Bethune Cookman 75-74 (53%),7:30 pm,"Daytona Beach, FLMoore Gym",29.47,NA,NA,316,Jackson St.,342,Bethune Cookman,316,Jackson St.,342,NA,NA,NA,NA,NA,NA,2023-02-13
-Hofstra 72-63 (80%),7:00 pm,"Hempstead, NYMack Sports Complex",28.28,NA,NA,200,Drexel,93,Hofstra,200,Drexel,93,NA,NA,NA,NA,NA,NA,2023-02-13
-North Carolina A&T 71-69 (59%),7:00 pm,"West Long Branch, NJOceanFirst Bank Center",28.09,NA,NA,295,North Carolina A&T,352,Monmouth,295,North Carolina A&T,352,NA,NA,NA,NA,NA,NA,2023-02-13
-Alabama St. 67-66 (51%),8:30 pm,"Itta Bena, MSHarrison Complex",27.51,NA,NA,338,Alabama St.,358,Mississippi Valley St.,338,Alabama St.,358,NA,NA,NA,NA,NA,NA,2023-02-13
-Arkansas Pine Bluff 72-68 (63%),6:30 pm,"Pine Bluff, ARClemmons Arena",26.911,NA,NA,326,Alabama A&M,317,Arkansas Pine Bluff,326,Alabama A&M,317,NA,NA,NA,NA,NA,NA,2023-02-13
-Towson 72-65 (72%),7:00 pm,"Williamsburg, VAKaplan Arena",26.712,NA,NA,139,Towson,327,William & Mary,139,Towson,327,NA,NA,NA,NA,NA,NA,2023-02-13
-Elon 75-69 (71%),9:00 pm CBS Sports Network,"Elon, NCSchar Center",23.613,NA,NA,349,Hampton,314,Elon,349,Hampton,314,NA,NA,NA,NA,NA,NA,2023-02-13
-Grambling St. 67-60 (75%),8:00 pm,"Grambling, LAAssembly Center",23.514,NA,NA,277,Prairie View A&M,206,Grambling St.,277,Prairie View A&M,206,NA,NA,NA,NA,NA,NA,2023-02-13
-Alcorn St. 68-62 (72%),7:30 pm,"Tallahassee, FLLawson Center",22.415,NA,NA,262,Alcorn St.,359,Florida A&M,262,Alcorn St.,359,NA,NA,NA,NA,NA,NA,2023-02-13
-Southern 76-67 (79%),9:00 pm,"Baton Rouge, LAClark Activity Center",20.816,NA,NA,324,Texas Southern,237,Southern,324,Texas Southern,237,NA,NA,NA,NA,NA,NA,2023-02-13
-Delaware 71-62 (81%),7:00 pm,"Newark, DEBob Carpenter Center",18.417,NA,NA,337,Stony Brook,228,Delaware,337,Stony Brook,228,NA,NA,NA,NA,NA,NA,2023-02-13
-North Carolina Central 84-71 (89%),7:30 pm,"Durham, NCMcLendon-McDougald Gymnasium",14.618,NA,NA,347,Coppin St.,207,North Carolina Central,347,Coppin St.,207,NA,NA,NA,NA,NA,NA,2023-02-13
-Charleston 82-64 (95%),7:00 pm,"Charleston, SCTD Arena",13.019,NA,NA,290,Northeastern,72,Charleston,290,Northeastern,72,NA,NA,NA,NA,NA,NA,2023-02-13
-Norfolk St. 78-63 (91%),7:30 pm,"Norfolk, VAEchols Hall",12.02,NA,NA,354,Delaware St.,183,Norfolk St.,354,Delaware St.,183,NA,NA,NA,NA,NA,NA,2023-02-13
-South Alabama 79-56 (98%),8:00 pm,"Mobile, ALMitchell Center",6.621,NA,NA,362,Hartford,137,South Alabama,362,Hartford,137,NA,NA,NA,NA,NA,NA,2023-02-13
+Tennessee 71-69 (57%),7:00 pm ESPN2,"Knoxville, TNThompson Boling Arena",83.21,NA,NA,2,Alabama,5,Tennessee,2,Alabama,5,NA,NA,NA,NA,NA,NA,2023-02-15
+Texas A&M 73-71 (56%),9:00 pm ESPN2,"College Station, TXReed Arena",72.12,NA,NA,20,Arkansas,33,Texas A&M,20,Arkansas,33,NA,NA,NA,NA,NA,NA,2023-02-15
+Northwestern 70-69 (51%),9:00 pm Big Ten Network,"Evanston, ILWelsh-Ryan Arena",70.83,NA,NA,19,Indiana,47,Northwestern,19,Indiana,47,NA,NA,NA,NA,NA,NA,2023-02-15
+Marquette 87-81 (71%),7:00 pm CBS Sports Network,"Milwaukee, WIFiserv Forum",69.84,NA,NA,24,Xavier,11,Marquette,24,Xavier,11,NA,NA,NA,NA,NA,NA,2023-02-15
+Iowa St. 69-65 (63%),9:00 pm ESPNU,"Ames, IAHilton Coliseum",69.15,NA,NA,22,TCU,17,Iowa St.,22,TCU,17,NA,NA,NA,NA,NA,NA,2023-02-15
+Mississippi St. 66-62 (64%),8:30 pm SEC Network,"Starkville, MSHumphrey Coliseum",61.76,NA,NA,44,Kentucky,39,Mississippi St.,44,Kentucky,39,NA,NA,NA,NA,NA,NA,2023-02-15
+Oregon 73-70 (60%),11:00 pm ESPNU,"Seattle, WAAlaska Airlines Arena",57.97,NA,NA,43,Oregon,106,Washington,43,Oregon,106,NA,NA,NA,NA,NA,NA,2023-02-15
+Boise St. 71-67 (67%),10:00 pm Fox Sports 1,"Fort Collins, COMoby Arena",56.18,NA,NA,28,Boise St.,111,Colorado St.,28,Boise St.,111,NA,NA,NA,NA,NA,NA,2023-02-15
+UC Santa Barbara 71-68 (61%),10:00 pm,"Santa Barbara, CAThunderdome",49.69,NA,NA,96,UC Irvine,98,UC Santa Barbara,96,UC Irvine,98,NA,NA,NA,NA,NA,NA,2023-02-15
+Samford 68-67 (54%),7:30 pm,"Birmingham, ALPete Hanna Center",44.71,NA,NA,112,UNC Greensboro,140,Samford,112,UNC Greensboro,140,NA,NA,NA,NA,NA,NA,2023-02-15
+San Diego St. 70-61 (78%),11:00 pm CBS Sports Network,"Fresno, CASave Mart Center",43.211,NA,NA,16,San Diego St.,154,Fresno St.,16,San Diego St.,154,NA,NA,NA,NA,NA,NA,2023-02-15
+UC Riverside 77-75 (57%),10:00 pm,"Riverside, CASRC Arena",41.712,NA,NA,141,Long Beach St.,162,UC Riverside,141,Long Beach St.,162,NA,NA,NA,NA,NA,NA,2023-02-15
+Cal Baptist 67-65 (55%),10:00 pm,"Riverside, CACBU Events Center",40.913,NA,NA,128,Seattle,163,Cal Baptist,128,Seattle,163,NA,NA,NA,NA,NA,NA,2023-02-15
+Virginia Tech 74-67 (73%),7:00 pm ACC Network,"Atlanta, GAMcCamish Pavilion",40.314,NA,NA,60,Virginia Tech,205,Georgia Tech,60,Virginia Tech,205,NA,NA,NA,NA,NA,NA,2023-02-15
+Bryant 81-78 (59%),7:00 pm,"Smithfield, RIChace Athletic Center",40.015,NA,NA,160,UMass Lowell,181,Bryant,160,UMass Lowell,181,NA,NA,NA,NA,NA,NA,2023-02-15
+Drake 71-66 (69%),9:00 pm,"Cedar Falls, IAMcLeod Center",39.516,NA,NA,78,Drake,211,Northern Iowa,78,Drake,211,NA,NA,NA,NA,NA,NA,2023-02-15
+Saint Louis 76-70 (71%),9:00 pm CBS Sports Network,"St. Louis, MOChaifetz Arena",39.017,NA,NA,139,Davidson,104,Saint Louis,139,Davidson,104,NA,NA,NA,NA,NA,NA,2023-02-15
+George Washington 75-74 (50%),7:00 pm,"Washington, DCCharles E. Smith Center",38.618,NA,NA,155,George Mason,219,George Washington,155,George Mason,219,NA,NA,NA,NA,NA,NA,2023-02-15
+Cincinnati 75-67 (75%),7:00 pm ESPN Plus,"Greenville, NCWilliams Arena at Minges Colis",37.819,NA,NA,62,Cincinnati,213,East Carolina,62,Cincinnati,213,NA,NA,NA,NA,NA,NA,2023-02-15
+Richmond 69-68 (52%),7:00 pm,"Philadelphia, PATom Gola Arena",37.52,NA,NA,148,Richmond,223,La Salle,148,Richmond,223,NA,NA,NA,NA,NA,NA,2023-02-15
+VCU 70-64 (71%),7:00 pm,"Kingston, RIRyan Center",37.521,NA,NA,83,VCU,217,Rhode Island,83,VCU,217,NA,NA,NA,NA,NA,NA,2023-02-15
+Florida 72-62 (80%),6:30 pm SEC Network,"Gainesville, FLExactech Arena",37.322,NA,NA,114,Mississippi,49,Florida,114,Mississippi,49,NA,NA,NA,NA,NA,NA,2023-02-15
+Stetson 74-70 (63%),7:00 pm,"DeLand, FLEdmunds Center",36.723,NA,NA,176,Florida Gulf Coast,164,Stetson,176,Florida Gulf Coast,164,NA,NA,NA,NA,NA,NA,2023-02-15
+Fordham 69-64 (67%),7:00 pm,"New York, NYRose Hill Gym",35.624,NA,NA,167,St. Bonaventure,137,Fordham,167,St. Bonaventure,137,NA,NA,NA,NA,NA,NA,2023-02-15
+Longwood 68-66 (59%),7:00 pm,"Spartanburg, SCHodge Center",33.725,NA,NA,157,Longwood,267,USC Upstate,157,Longwood,267,NA,NA,NA,NA,NA,NA,2023-02-15
+South Florida 76-72 (65%),8:00 pm,"Tulsa, OKReynolds Center",33.326,NA,NA,145,South Florida,281,Tulsa,145,South Florida,281,NA,NA,NA,NA,NA,NA,2023-02-15
+Navy 71-69 (57%),7:00 pm,"Bethlehem, PAStabler Arena",33.227,NA,NA,196,Navy,284,Lehigh,196,Navy,284,NA,NA,NA,NA,NA,NA,2023-02-15
+Stephen F. Austin 74-67 (74%),7:30 pm,"Nacogdoches, TXJohnson Coliseum",32.528,NA,NA,187,Tarleton St.,121,Stephen F. Austin,187,Tarleton St.,121,NA,NA,NA,NA,NA,NA,2023-02-15
+Illinois St. 71-70 (54%),8:00 pm,"Normal, ILRedbird Arena",32.429,NA,NA,227,Murray St.,268,Illinois St.,227,Murray St.,268,NA,NA,NA,NA,NA,NA,2023-02-15
+Duquesne 77-69 (77%),7:00 pm,"Pittsburgh, PAUPMC Cooper Fieldhouse",31.13,NA,NA,190,Saint Joseph's,107,Duquesne,190,Saint Joseph's,107,NA,NA,NA,NA,NA,NA,2023-02-15
+Western Carolina 72-68 (61%),7:00 pm,"Cullowhee, NCRamsey Center",30.831,NA,NA,243,East Tennessee St.,247,Western Carolina,243,East Tennessee St.,247,NA,NA,NA,NA,NA,NA,2023-02-15
+Bradley 68-58 (80%),8:00 pm,"Peoria, ILCarver Arena",30.632,NA,NA,159,Missouri St.,79,Bradley,159,Missouri St.,79,NA,NA,NA,NA,NA,NA,2023-02-15
+Cal St. Fullerton 65-61 (66%),10:00 pm,"San Diego, CARimac Arena",30.633,NA,NA,135,Cal St. Fullerton,287,UC San Diego,135,Cal St. Fullerton,287,NA,NA,NA,NA,NA,NA,2023-02-15
+Wofford 72-68 (65%),7:00 pm,"Spartanburg, SCRichardson Indoor Stadium",30.034,NA,NA,241,Mercer,226,Wofford,241,Mercer,226,NA,NA,NA,NA,NA,NA,2023-02-15
+Presbyterian 72-71 (53%),7:00 pm,"Clinton, SCTempleton P.E. Center",29.235,NA,NA,311,High Point,338,Presbyterian,311,High Point,338,NA,NA,NA,NA,NA,NA,2023-02-15
+Boston University 68-67 (50%),7:00 pm,"Worcester, MAHart Center",28.936,NA,NA,288,Boston University,335,Holy Cross,288,Boston University,335,NA,NA,NA,NA,NA,NA,2023-02-15
+Lafayette 62-61 (54%),7:00 pm,"Baltimore, MDReitz Arena",28.037,NA,NA,264,Lafayette,334,Loyola MD,264,Lafayette,334,NA,NA,NA,NA,NA,NA,2023-02-15
+Indiana St. 78-70 (79%),8:00 pm,"Chicago, ILCredit Union 1 Arena",27.938,NA,NA,100,Indiana St.,286,Illinois Chicago,100,Indiana St.,286,NA,NA,NA,NA,NA,NA,2023-02-15
+Clemson 79-68 (84%),7:00 pm ESPN Plus,"Clemson, SCLittlejohn Coliseum",27.539,NA,NA,186,Florida St.,80,Clemson,186,Florida St.,80,NA,NA,NA,NA,NA,NA,2023-02-15
+Cal Poly 60-58 (59%),10:00 pm,"San Luis Obispo, CAMott Gymnasium",27.04,NA,NA,289,Cal St. Bakersfield,305,Cal Poly,289,Cal St. Bakersfield,305,NA,NA,NA,NA,NA,NA,2023-02-15
+Campbell 75-70 (69%),7:00 pm,"Buies Creek, NCPope Convocation Center",26.441,NA,NA,297,Charleston Southern,252,Campbell,297,Charleston Southern,252,NA,NA,NA,NA,NA,NA,2023-02-15
+Binghamton 69-65 (65%),7:00 pm,"Vestal, NYEvents Center",25.942,NA,NA,326,NJIT,309,Binghamton,326,NJIT,309,NA,NA,NA,NA,NA,NA,2023-02-15
+UMBC 78-72 (71%),7:00 pm,"Troy, NYMcDonough Sports Complex",25.443,NA,NA,229,UMBC,353,Albany,229,UMBC,353,NA,NA,NA,NA,NA,NA,2023-02-15
+Gardner Webb 72-64 (77%),7:00 pm,"Boiling Springs, NCPaul Porter Arena",24.544,NA,NA,256,Winthrop,161,Gardner Webb,256,Winthrop,161,NA,NA,NA,NA,NA,NA,2023-02-15
+Chattanooga 79-71 (77%),7:00 pm,"Lexington, VACameron Hall",23.445,NA,NA,174,Chattanooga,348,VMI,174,Chattanooga,348,NA,NA,NA,NA,NA,NA,2023-02-15
+Colgate 82-70 (85%),7:00 pm,"Hamilton, NYCotterell Court",22.046,NA,NA,244,Army,109,Colgate,244,Army,109,NA,NA,NA,NA,NA,NA,2023-02-15
+Furman 82-70 (87%),7:00 pm,"Charleston, SCMcAlister Field House",20.947,NA,NA,82,Furman,317,The Citadel,82,Furman,317,NA,NA,NA,NA,NA,NA,2023-02-15
+Grand Canyon 81-69 (86%),9:00 pm,"Phoenix, AZGCU Arena",20.248,NA,NA,266,UT Rio Grande Valley,120,Grand Canyon,266,UT Rio Grande Valley,120,NA,NA,NA,NA,NA,NA,2023-02-15
+Virginia 74-58 (93%),7:00 pm ESPNU,"Louisville, KYKFC Yum! Center",19.149,NA,NA,14,Virginia,295,Louisville,14,Virginia,295,NA,NA,NA,NA,NA,NA,2023-02-15
+Vermont 71-60 (85%),7:00 pm,"Burlington, VTPatrick Gymnasium",18.65,NA,NA,283,New Hampshire,123,Vermont,283,New Hampshire,123,NA,NA,NA,NA,NA,NA,2023-02-15
+Sam Houston St. 71-56 (91%),7:30 pm,"Huntsville, TXJohnson Coliseum",15.751,NA,NA,261,UT Arlington,73,Sam Houston St.,261,UT Arlington,73,NA,NA,NA,NA,NA,NA,2023-02-15
+UC Davis 77-64 (88%),9:00 pm,"Davis, CAThe Pavilion",15.352,NA,NA,318,Cal St. Northridge,144,UC Davis,318,Cal St. Northridge,144,NA,NA,NA,NA,NA,NA,2023-02-15
+Oakland 80-65 (92%),7:00 pm,"Oakland, MIAthletics Center O'Rena",11.353,NA,NA,360,IUPUI,254,Oakland,360,IUPUI,254,NA,NA,NA,NA,NA,NA,2023-02-15
+Belmont 82-64 (94%),7:30 pm,"Nashville, TNCurb Event Center",10.954,NA,NA,344,Evansville,126,Belmont,344,Evansville,126,NA,NA,NA,NA,NA,NA,2023-02-15
