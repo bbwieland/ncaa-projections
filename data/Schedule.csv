@@ -1,15 +1,21 @@
 prediction,time_et,location,thrill_score,comeback,excitement,road_rk,road_team,home_rk,home_team,win_rk,win_team,win_score,loss_rk,loss_team,loss_score,poss,mvp,event,date
-Saint Mary's 69-61 (75%),9:00 pm ESPN,"Paradise, NVOrleans Arena",57.41,NA,NA,75,BYU,7,Saint Mary's,75,BYU vs.,7,NA,NA,NA,NA,NA,NA,2023-03-06
-South Alabama 74-73 (50%),7:00 pm ESPN2,"Pensacola, FLPensacola Bay Center",54.82,NA,NA,92,South Alabama,95,Louisiana,92,South Alabama vs.,95,NA,NA,NA,NA,NA,NA,2023-03-06
-Charleston 77-71 (70%),8:30 pm CBS Sports Network,"Washington, DCEntertainment & Sports Arena",47.13,NA,NA,130,Towson,73,Charleston,130,Towson vs.,73,NA,NA,NA,NA,NA,NA,2023-03-06
-Gonzaga 87-76 (85%),11:30 pm ESPN2,"Paradise, NVOrleans Arena",45.74,NA,NA,100,San Francisco,10,Gonzaga,100,San Francisco vs.,10,NA,NA,NA,NA,NA,NA,2023-03-06
-Youngstown St. 72-68 (61%),7:00 pm ESPNU,"Indianapolis, INIndiana Farmers Coliseum",40.95,NA,NA,174,Northern Kentucky,122,Youngstown State,174,Northern Kentucky vs.,122,NA,NA,NA,NA,NA,NA,2023-03-06
-Hofstra 72-66 (71%),6:00 pm CBS Sports Network,"Washington, DCEntertainment & Sports Arena",39.76,NA,NA,166,UNC Wilmington,86,Hofstra,166,UNC Wilmington vs.,86,NA,NA,NA,NA,NA,NA,2023-03-06
-Furman 82-76 (72%),7:00 pm ESPN,"Asheville, NCHarrah's Cherokee Center",39.67,NA,NA,180,Chattanooga,90,Furman,180,Chattanooga vs.,90,NA,NA,NA,NA,NA,NA,2023-03-06
-South Dakota St. 73-70 (59%),9:30 pm ESPN Plus,"Sioux Falls, SDDenny Sanford PREMIER Center",37.78,NA,NA,211,North Dakota State,161,South Dakota State,211,North Dakota St. vs.,161,NA,NA,NA,NA,NA,NA,2023-03-06
-Cleveland St. 75-73 (57%),9:30 pm ESPN2,"Indianapolis, INIndiana Farmers Coliseum",36.39,NA,NA,189,Cleveland State,225,Milwaukee,189,Cleveland St. vs.,225,NA,NA,NA,NA,NA,NA,2023-03-06
-Weber St. 65-63 (55%),10:00 pm ESPN Plus,"Boise, IDIdaho Central Arena",34.51,NA,NA,224,Sacramento State,197,Weber State,224,Sacramento St. vs.,197,NA,NA,NA,NA,NA,NA,2023-03-06
-Oral Roberts 84-74 (82%),7:00 pm ESPN Plus,"Sioux Falls, SDDenny Sanford PREMIER Center",33.211,NA,NA,200,St. Thomas,60,Oral Roberts,200,St. Thomas vs.,60,NA,NA,NA,NA,NA,NA,2023-03-06
-Montana 70-66 (66%),7:30 pm ESPN Plus,"Boise, IDIdaho Central Arena",32.612,NA,NA,241,Idaho State,154,Montana,241,Idaho St. vs.,154,NA,NA,NA,NA,NA,NA,2023-03-06
-Southeastern Louisiana 82-75 (72%),8:30 pm ESPN Plus,"Lake Charles, LAThe Legacy Center",25.313,NA,NA,334,New Orleans,247,Southeastern Louisiana,334,New Orleans vs.,247,NA,NA,NA,NA,NA,NA,2023-03-06
-Nicholls St. 76-70 (71%),6:00 pm ESPN Plus,"Lake Charles, LAThe Legacy Center",25.214,NA,NA,335,McNeese,258,Nicholls,335,McNeese St. vs.,258,NA,NA,NA,NA,NA,NA,2023-03-06
+Saint Mary's 73-72 (51%),9:00 pm ESPN,"Paradise, NVOrleans Arena",81.81,NA,NA,10,Gonzaga,7,Saint Mary's,10,Gonzaga vs.,7,NA,NA,NA,NA,NA,NA,2023-03-07
+Stephen F. Austin 76-75 (56%),11:00 pm,"Paradise, NVOrleans Arena",44.02,NA,NA,157,Utah Tech,131,Stephen F. Austin,157,Utah Tech vs.,131,NA,NA,NA,NA,NA,NA,2023-03-07
+Charleston 76-68 (76%),7:00 pm CBS Sports Network,"Washington, DCEntertainment & Sports Arena",39.14,NA,NA,161,UNC Wilmington,73,Charleston,161,UNC Wilmington vs.,73,NA,NA,NA,NA,NA,NA,2023-03-07
+Virginia Tech 77-70 (75%),7:07 pm ACC Network,"Greensboro, NCGreensboro Coliseum",38.86,NA,NA,170,Notre Dame,77,Virginia Tech,170,Notre Dame vs.,77,NA,NA,NA,NA,NA,NA,2023-03-07
+Northern Kentucky 65-64 (53%),7:00 pm,"Indianapolis, INIndiana Farmers Coliseum",38.37,NA,NA,163,Northern Kentucky,178,Cleveland State,163,Northern Kentucky vs.,178,NA,NA,NA,NA,NA,NA,2023-03-07
+Montana St. 68-63 (67%),11:00 pm ESPN2,"Boise, IDIdaho Central Arena",37.49,NA,NA,195,Weber State,109,Montana State,195,Weber St. vs.,109,NA,NA,NA,NA,NA,NA,2023-03-07
+Montana 74-70 (62%),8:30 pm ESPNU,"Boise, IDIdaho Central Arena",36.81,NA,NA,221,Northern Arizona,150,Montana,221,Northern Arizona vs.,150,NA,NA,NA,NA,NA,NA,2023-03-07
+Tarleton St. 79-74 (69%),9:00 pm,"Paradise, NVOrleans Arena",32.413,NA,NA,248,UT Rio Grande Valley,160,Tarleton St.,248,UT Rio Grande Valley vs.,160,NA,NA,NA,NA,NA,NA,2023-03-07
+Oral Roberts 84-73 (83%),9:00 pm ESPN2,"Sioux Falls, SDDenny Sanford PREMIER Center",32.214,NA,NA,205,North Dakota State,67,Oral Roberts,205,North Dakota St. vs.,67,NA,NA,NA,NA,NA,NA,2023-03-07
+Canisius 70-68 (56%),5:00 pm ESPN Plus,"Atlantic City, NJBoardwalk Hall",31.015,NA,NA,247,Canisius,278,Mount St. Mary's,247,Canisius vs.,278,NA,NA,NA,NA,NA,NA,2023-03-07
+Grand Canyon 71-64 (74%),5:00 pm,"Paradise, NVOrleans Arena",29.816,NA,NA,246,UT Arlington,119,Grand Canyon,246,UT Arlington vs.,119,NA,NA,NA,NA,NA,NA,2023-03-07
+Manhattan 69-68 (51%),9:00 pm ESPN Plus,"Atlantic City, NJBoardwalk Hall",29.517,NA,NA,306,Marist,299,Manhattan,306,Marist vs.,299,NA,NA,NA,NA,NA,NA,2023-03-07
+Merrimack 72-69 (62%),7:00 pm ESPN2,"North Andover, MALawler Arena",27.719,NA,NA,315,Fairleigh Dickinson,313,Merrimack,315,Fairleigh Dickinson,313,NA,NA,NA,NA,NA,NA,2023-03-07
+Cal St. Bakersfield 64-61 (60%),9:00 pm ESPN Plus,"Henderson, NVDollar Loan Center",27.22,NA,NA,324,CSU Northridge,285,CSU Bakersfield,324,Cal St. Northridge vs.,285,NA,NA,NA,NA,NA,NA,2023-03-07
+Fairfield 65-61 (64%),7:00 pm ESPN Plus,"Atlantic City, NJBoardwalk Hall",26.621,NA,NA,319,Saint Peter's,253,Fairfield,319,Saint Peter's vs.,253,NA,NA,NA,NA,NA,NA,2023-03-07
+Long Beach St. 74-64 (80%),11:30 pm ESPN Plus,"Henderson, NVDollar Loan Center",22.422,NA,NA,304,Cal Poly,147,Long Beach State,304,Cal Poly vs.,147,NA,NA,NA,NA,NA,NA,2023-03-07
+Northwestern St. 81-72 (79%),9:00 pm ESPN Plus,"Lake Charles, LAThe Legacy Center",22.323,NA,NA,331,New Orleans,211,Northwestern State,331,New Orleans vs.,211,NA,NA,NA,NA,NA,NA,2023-03-07
+Texas A&M Corpus Chris 80-70 (81%),6:30 pm ESPNU,"Lake Charles, LAThe Legacy Center",20.624,NA,NA,330,McNeese,176,Texas A&M-CC,330,McNeese St. vs.,176,NA,NA,NA,NA,NA,NA,2023-03-07
+UMass Lowell 75-63 (86%),6:00 pm ESPN Plus,"Lowell, MACostello Athletic Center",18.225,NA,NA,287,New Hampshire,132,UMass Lowell,287,New Hampshire,132,NA,NA,NA,NA,NA,NA,2023-03-07
+Vermont 76-62 (89%),7:00 pm ESPN Plus,"Burlington, VTPatrick Gymnasium",15.026,NA,NA,307,Binghamton,118,Vermont,307,Binghamton,118,NA,NA,NA,NA,NA,NA,2023-03-07
