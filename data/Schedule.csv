@@ -1,37 +1,58 @@
 prediction,time_et,location,thrill_score,comeback,excitement,road_rk,road_team,home_rk,home_team,win_rk,win_team,win_score,loss_rk,loss_team,loss_score,poss,mvp,event,date
-West Virginia 76-73 (64%),7:00 pm ESPNU,"Kansas City, MOT-Mobile Center",68.41,NA,NA,53,Texas Tech,17,West Virginia,53,Texas Tech vs.,12,NA,NA,NA,NA,NA,NA,2023-03-08
-Oklahoma St. 68-67 (53%),9:30 pm ESPNU,"Kansas City, MOT-Mobile Center",67.02,NA,NA,51,Oklahoma,40,Oklahoma State,51,Oklahoma vs.,12,NA,NA,NA,NA,NA,NA,2023-03-08
-N.C. State 77-75 (57%),9:30 pm ESPN2,"Greensboro, NCGreensboro Coliseum",64.03,NA,NA,77,Virginia Tech,52,NC State,77,Virginia Tech vs.,52,NA,NA,NA,NA,NA,NA,2023-03-08
-Ohio St. 67-66 (52%),6:30 pm Big Ten Network,"Chicago, ILUnited Center",62.34,NA,NA,58,Ohio State,72,Wisconsin,58,Ohio St. vs.,10,NA,NA,NA,NA,NA,NA,2023-03-08
-Utah 70-68 (58%),9:00 pm Pac-12 Networks,"Las Vegas, NVT-Mobile Arena",58.55,NA,NA,86,Stanford,67,Utah,86,Stanford vs.,12,NA,NA,NA,NA,NA,NA,2023-03-08
-Colorado 72-67 (67%),3:00 pm Pac-12 Networks,"Las Vegas, NVT-Mobile Arena",52.46,NA,NA,57,Colorado,104,Washington,57,Colorado vs.,12,NA,NA,NA,NA,NA,NA,2023-03-08
-Wake Forest 79-77 (60%),12:00 pm ESPN,"Greensboro, NCGreensboro Coliseum",51.37,NA,NA,90,Wake Forest,120,Syracuse,90,Wake Forest vs.,120,NA,NA,NA,NA,NA,NA,2023-03-08
-Colorado St. 70-68 (57%),2:00 pm,"Las Vegas, NVThomas & Mack Center",46.18,NA,NA,134,Fresno State,108,Colorado State,134,Fresno St. vs.,108,NA,NA,NA,NA,NA,NA,2023-03-08
-Georgia 71-70 (51%),9:30 pm SEC Network,"Nashville, TNBridgestone Arena",42.39,NA,NA,150,LSU,147,Georgia,150,LSU vs.,147,NA,NA,NA,NA,NA,NA,2023-03-08
-George Mason 67-66 (53%),2:00 pm USA Network,"Brooklyn, NYBarclays Center",41.91,NA,NA,151,Richmond,139,George Mason,151,Richmond vs.,10,NA,NA,NA,NA,NA,NA,2023-03-08
-St. John's 74-68 (72%),3:00 pm Fox Sports 1,"New York, NYMadison Square Garden",41.111,NA,NA,122,Butler,87,St. John's,122,Butler,87,NA,NA,NA,NA,NA,NA,2023-03-08
-Seton Hall 73-66 (75%),5:30 pm Fox Sports 1,"New York, NYMadison Square Garden",40.412,NA,NA,149,DePaul,63,Seton Hall,149,DePaul vs.,63,NA,NA,NA,NA,NA,NA,2023-03-08
-New Mexico 82-73 (79%),7:00 pm,"Las Vegas, NVThomas & Mack Center",39.513,NA,NA,155,Wyoming,49,New Mexico,155,Wyoming vs.,49,NA,NA,NA,NA,NA,NA,2023-03-08
-Davidson 69-66 (59%),11:30 am USA Network,"Brooklyn, NYBarclays Center",38.814,NA,NA,193,St. Bonaventure,140,Davidson,193,St. Bonaventure vs.,10,NA,NA,NA,NA,NA,NA,2023-03-08
-Saint Joseph's 80-79 (52%),5:00 pm USA Network,"Brooklyn, NYBarclays Center",38.515,NA,NA,202,Saint Joseph's,210,George Washington,202,Saint Joseph's vs.,10,NA,NA,NA,NA,NA,NA,2023-03-08
-Texas A&M Corpus Chris 77-75 (57%),5:00 pm ESPN2,"Lake Charles, LAThe Legacy Center",38.416,NA,NA,212,Northwestern State,173,Texas A&M-CC,212,Northwestern St. vs.,173,NA,NA,NA,NA,NA,NA,2023-03-08
-Pittsburgh 76-68 (77%),2:30 pm ESPN,"Greensboro, NCGreensboro Coliseum",38.017,NA,NA,166,Georgia Tech,68,Pittsburgh,166,Georgia Tech vs.,68,NA,NA,NA,NA,NA,NA,2023-03-08
-Western Kentucky 69-68 (51%),6:30 pm ESPN Plus,"Frisco, TXFord Center at The Star",37.918,NA,NA,190,UTEP,181,Western Kentucky,190,UTEP vs.,181,NA,NA,NA,NA,NA,NA,2023-03-08
-Louisiana Tech 75-72 (59%),9:00 pm ESPN Plus,"Frisco, TXFord Center at The Star",37.219,NA,NA,164,Louisiana Tech,220,Florida International,164,Louisiana Tech vs.,220,NA,NA,NA,NA,NA,NA,2023-03-08
-Montana St. 73-68 (70%),11:30 pm ESPN2,"Boise, IDIdaho Central Arena",35.92,NA,NA,211,Northern Arizona,110,Montana State,211,Northern Arizona vs.,110,NA,NA,NA,NA,NA,NA,2023-03-08
-UNLV 73-65 (76%),4:30 pm,"Las Vegas, NVThomas & Mack Center",35.421,NA,NA,146,Air Force,88,UNLV,146,Air Force,88,NA,NA,NA,NA,NA,NA,2023-03-08
-North Carolina 75-65 (81%),7:00 pm ESPN2,"Greensboro, NCGreensboro Coliseum",35.422,NA,NA,165,Boston College,47,North Carolina,165,Boston College vs.,47,NA,NA,NA,NA,NA,NA,2023-03-08
-Mississippi 70-65 (69%),7:00 pm SEC Network,"Nashville, TNBridgestone Arena",35.023,NA,NA,113,Ole Miss,218,South Carolina,113,Mississippi vs.,218,NA,NA,NA,NA,NA,NA,2023-03-08
-Duquesne 77-71 (73%),7:30 pm USA Network,"Brooklyn, NYBarclays Center",32.324,NA,NA,231,La Salle,116,Duquesne,231,La Salle vs.,10,NA,NA,NA,NA,NA,NA,2023-03-08
-Nebraska 71-63 (76%),9:00 pm Big Ten Network,"Chicago, ILUnited Center",31.925,NA,NA,222,Minnesota,93,Nebraska,222,Minnesota vs.,10,NA,NA,NA,NA,NA,NA,2023-03-08
-Rice 83-78 (69%),9:30 pm ESPN Plus,"Frisco, TXFord Center at The Star",29.926,NA,NA,292,UTSA,205,Rice,292,UTSA vs.,205,NA,NA,NA,NA,NA,NA,2023-03-08
-Villanova 77-66 (83%),8:00 pm Fox Sports 1,"New York, NYMadison Square Garden",29.527,NA,NA,219,Georgetown,64,Villanova,219,Georgetown vs.,64,NA,NA,NA,NA,NA,NA,2023-03-08
-Alcorn St. 73-70 (64%),9:30 pm,"Birmingham, ALBartow Arena",29.128,NA,NA,304,Texas Southern,240,Alcorn State,304,Texas Southern vs.,240,NA,NA,NA,NA,NA,NA,2023-03-08
-Arizona St. 70-60 (83%),11:30 pm Pac-12 Networks,"Las Vegas, NVT-Mobile Arena",28.829,NA,NA,216,Oregon State,61,Arizona State,216,Oregon St. vs.,12,NA,NA,NA,NA,NA,NA,2023-03-08
-Rider 69-62 (72%),9:30 pm ESPN Plus,"Atlantic City, NJBoardwalk Hall",25.53,NA,NA,311,Saint Peter's,197,Rider,311,Saint Peter's vs.,197,NA,NA,NA,NA,NA,NA,2023-03-08
-Howard 83-75 (77%),6:00 pm,"Norfolk, VANorfolk Scope Arena",23.131,NA,NA,339,South Carolina State,232,Howard,339,South Carolina St. vs.,232,NA,NA,NA,NA,NA,NA,2023-03-08
-Washington St. 70-57 (88%),5:30 pm Pac-12 Networks,"Las Vegas, NVT-Mobile Arena",20.232,NA,NA,261,California,54,Washington State,261,California vs.,12,NA,NA,NA,NA,NA,NA,2023-03-08
-Iona 76-63 (89%),7:00 pm ESPN Plus,"Atlantic City, NJBoardwalk Hall",19.233,NA,NA,276,Mount St. Mary's,78,Iona,276,Mount St. Mary's vs.,78,NA,NA,NA,NA,NA,NA,2023-03-08
-Colgate 74-62 (86%),7:30 pm CBS Sports Network,"Hamilton, NYCotterell Court",18.534,NA,NA,271,Lafayette,112,Colgate,271,Lafayette,112,NA,NA,NA,NA,NA,NA,2023-03-08
-Grambling St. 74-63 (85%),3:00 pm,"Birmingham, ALBartow Arena",16.835,NA,NA,346,Bethune-Cookman,175,Grambling,346,Bethune Cookman vs.,175,NA,NA,NA,NA,NA,NA,2023-03-08
-North Carolina Central 74-62 (87%),8:00 pm,"Norfolk, VANorfolk Scope Arena",14.736,NA,NA,355,Delaware State,195,North Carolina Central,355,Delaware St. vs.,195,NA,NA,NA,NA,NA,NA,2023-03-08
+Kansas 76-74 (58%),3:00 pm ESPN,"Kansas City, MOT-Mobile Center",79.21,NA,NA,16,West Virginia,9,Kansas,16,West Virginia vs.,12,NA,NA,NA,NA,NA,NA,2023-03-09
+Baylor 69-68 (54%),12:30 pm ESPN,"Kansas City, MOT-Mobile Center",75.32,NA,NA,21,Iowa State,14,Baylor,21,Iowa St. vs.,12,NA,NA,NA,NA,NA,NA,2023-03-09
+Kansas St. 74-73 (54%),9:30 pm ESPN2,"Kansas City, MOT-Mobile Center",75.23,NA,NA,25,TCU,18,Kansas State,25,TCU vs.,12,NA,NA,NA,NA,NA,NA,2023-03-09
+Arkansas 72-71 (53%),7:00 pm SEC Network,"Nashville, TNBridgestone Arena",74.44,NA,NA,19,Arkansas,26,Auburn,19,Arkansas vs.,26,NA,NA,NA,NA,NA,NA,2023-03-09
+Utah St. 83-81 (60%),11:30 pm CBS Sports Network,"Las Vegas, NVThomas & Mack Center",72.15,NA,NA,49,New Mexico,23,Utah State,49,New Mexico vs.,23,NA,NA,NA,NA,NA,NA,2023-03-09
+Iowa 81-79 (56%),2:30 pm Big Ten Network,"Chicago, ILUnited Center",69.66,NA,NA,55,Ohio State,35,Iowa,55,Ohio St. vs.,10,NA,NA,NA,NA,NA,NA,2023-03-09
+Illinois 73-72 (56%),6:30 pm Big Ten Network,"Chicago, ILUnited Center",69.17,NA,NA,51,Penn State,32,Illinois,51,Penn St. vs.,10,NA,NA,NA,NA,NA,NA,2023-03-09
+Texas 73-68 (68%),7:00 pm ESPN2,"Kansas City, MOT-Mobile Center",68.98,NA,NA,36,Oklahoma State,8,Texas,36,Oklahoma St. vs.,12,NA,NA,NA,NA,NA,NA,2023-03-09
+Virginia 67-66 (51%),7:00 pm ESPN,"Greensboro, NCGreensboro Coliseum",68.09,NA,NA,42,North Carolina,37,Virginia,42,North Carolina vs.,37,NA,NA,NA,NA,NA,NA,2023-03-09
+Michigan 67-66 (51%),12:00 pm Big Ten Network,"Chicago, ILUnited Center",67.71,NA,NA,43,Rutgers,39,Michigan,43,Rutgers vs.,10,NA,NA,NA,NA,NA,NA,2023-03-09
+Oregon 69-68 (54%),5:30 pm Pac-12 Networks,"Las Vegas, NVT-Mobile Arena",66.511,NA,NA,53,Washington State,41,Oregon,53,Washington St. vs.,12,NA,NA,NA,NA,NA,NA,2023-03-09
+N.C. State 76-74 (56%),9:30 pm ESPN,"Greensboro, NCGreensboro Coliseum",66.212,NA,NA,47,NC State,68,Clemson,47,N.C. State vs.,68,NA,NA,NA,NA,NA,NA,2023-03-09
+Duke 72-69 (60%),2:30 pm ESPN2,"Greensboro, NCGreensboro Coliseum",65.613,NA,NA,66,Pittsburgh,31,Duke,66,Pittsburgh vs.,31,NA,NA,NA,NA,NA,NA,2023-03-09
+USC 72-69 (59%),11:30 pm ESPN,"Las Vegas, NVT-Mobile Arena",65.614,NA,NA,65,Arizona State,34,USC,65,Arizona St. vs.,12,NA,NA,NA,NA,NA,NA,2023-03-09
+Creighton 71-66 (68%),9:30 pm Fox Sports 1,"New York, NYMadison Square Garden",65.115,NA,NA,54,Villanova,12,Creighton,54,Villanova vs.,12,NA,NA,NA,NA,NA,NA,2023-03-09
+Connecticut 78-71 (75%),2:30 pm Fox Sports 1,"New York, NYMadison Square Garden",64.916,NA,NA,45,Providence,4,Connecticut,45,Providence vs.,4,NA,NA,NA,NA,NA,NA,2023-03-09
+Mississippi St. 64-63 (55%),1:00 pm SEC Network,"Nashville, TNBridgestone Arena",63.817,NA,NA,46,Mississippi State,60,Florida,46,Mississippi St. vs.,60,NA,NA,NA,NA,NA,NA,2023-03-09
+Boise St. 70-68 (59%),9:00 pm CBS Sports Network,"Las Vegas, NVThomas & Mack Center",62.618,NA,NA,29,Boise State,88,UNLV,29,Boise St.,88,NA,NA,NA,NA,NA,NA,2023-03-09
+Miami FL 83-78 (67%),12:00 pm ESPN2,"Greensboro, NCGreensboro Coliseum",58.919,NA,NA,90,Wake Forest,38,Miami,90,Wake Forest vs.,38,NA,NA,NA,NA,NA,NA,2023-03-09
+Arizona 84-75 (78%),9:00 pm Pac-12 Networks,"Las Vegas, NVT-Mobile Arena",55.52,NA,NA,84,Stanford,10,Arizona,84,Stanford vs.,12,NA,NA,NA,NA,NA,NA,2023-03-09
+Nevada 69-64 (66%),5:30 pm CBS Sports Network,"Las Vegas, NVThomas & Mack Center",55.221,NA,NA,93,San José State,40,Nevada,93,San Jose St. vs.,40,NA,NA,NA,NA,NA,NA,2023-03-09
+UCLA 71-61 (81%),3:00 pm Pac-12 Networks,"Las Vegas, NVT-Mobile Arena",55.222,NA,NA,58,Colorado,2,UCLA,58,Colorado vs.,12,NA,NA,NA,NA,NA,NA,2023-03-09
+Marquette 85-76 (79%),12:00 pm Fox Sports 1,"New York, NYMadison Square Garden",53.723,NA,NA,87,St. John's,13,Marquette,87,St. John's vs.,13,NA,NA,NA,NA,NA,NA,2023-03-09
+San Diego St. 75-66 (79%),3:00 pm CBS Sports Network,"Las Vegas, NVThomas & Mack Center",46.624,NA,NA,108,Colorado State,15,San Diego State,108,Colorado St. vs.,15,NA,NA,NA,NA,NA,NA,2023-03-09
+Saint Louis 73-70 (59%),2:00 pm USA Network,"Brooklyn, NYBarclays Center",46.525,NA,NA,138,George Mason,103,Saint Louis,138,George Mason vs.,10,NA,NA,NA,NA,NA,NA,2023-03-09
+Charlotte 65-64 (52%),7:00 pm ESPN Plus,"Frisco, TXFord Center at The Star",45.526,NA,NA,116,Charlotte,126,Middle Tennessee,116,Charlotte vs.,126,NA,NA,NA,NA,NA,NA,2023-03-09
+Southern Utah 81-78 (63%),11:00 pm,"Paradise, NVOrleans Arena",45.327,NA,NA,152,Utah Tech,102,Southern Utah,152,Utah Tech vs.,102,NA,NA,NA,NA,NA,NA,2023-03-09
+Cal St. Fullerton 63-62 (52%),5:30 pm ESPN Plus,"Henderson, NVDollar Loan Center",45.228,NA,NA,125,Hawai'i,117,CSU Fullerton,125,Hawaii vs.,117,NA,NA,NA,NA,NA,NA,2023-03-09
+VCU 70-65 (69%),11:30 am USA Network,"Brooklyn, NYBarclays Center",44.929,NA,NA,134,Davidson,76,VCU,134,Davidson vs.,10,NA,NA,NA,NA,NA,NA,2023-03-09
+Grand Canyon 70-69 (55%),5:00 pm,"Paradise, NVOrleans Arena",44.93,NA,NA,120,Grand Canyon,141,Seattle U,120,Grand Canyon vs.,141,NA,NA,NA,NA,NA,NA,2023-03-09
+Ohio 78-77 (54%),1:30 pm ESPN Plus,"Cleveland, OHRocket Mortgage Fieldhouse",44.231,NA,NA,140,Ohio,157,Ball State,140,Ohio vs.,157,NA,NA,NA,NA,NA,NA,2023-03-09
+UC Riverside 75-74 (50%),11:30 pm ESPN Plus,"Henderson, NVDollar Loan Center",44.132,NA,NA,145,UC Davis,144,UC Riverside,145,UC Davis vs.,144,NA,NA,NA,NA,NA,NA,2023-03-09
+Vanderbilt 76-70 (70%),9:30 pm SEC Network,"Nashville, TNBridgestone Arena",43.833,NA,NA,148,LSU,80,Vanderbilt,148,LSU vs.,80,NA,NA,NA,NA,NA,NA,2023-03-09
+Utah Valley 73-66 (73%),9:00 pm,"Paradise, NVOrleans Arena",40.134,NA,NA,159,Tarleton St.,78,Utah Valley,159,Tarleton St. vs.,78,NA,NA,NA,NA,NA,NA,2023-03-09
+Sam Houston St. 65-58 (73%),3:00 pm,"Paradise, NVOrleans Arena",39.635,NA,NA,153,California Baptist,67,Sam Houston State,153,Cal Baptist vs.,67,NA,NA,NA,NA,NA,NA,2023-03-09
+South Florida 74-71 (60%),12:30 pm ESPNU,"Fort Worth, TXDickies Arena",38.936,NA,NA,199,East Carolina,143,South Florida,199,East Carolina vs.,143,NA,NA,NA,NA,NA,NA,2023-03-09
+Akron 77-71 (69%),6:30 pm ESPN Plus,"Cleveland, OHRocket Mortgage Fieldhouse",38.237,NA,NA,197,Buffalo,109,Akron,197,Buffalo vs.,109,NA,NA,NA,NA,NA,NA,2023-03-09
+North Texas 66-57 (77%),9:00 pm ESPN Plus,"Frisco, TXFord Center at The Star",36.838,NA,NA,164,Louisiana Tech,50,North Texas,164,Louisiana Tech vs.,50,NA,NA,NA,NA,NA,NA,2023-03-09
+Tennessee 71-58 (88%),3:30 pm SEC Network,"Nashville, TNBridgestone Arena",36.739,NA,NA,113,Ole Miss,5,Tennessee,113,Mississippi vs.,5,NA,NA,NA,NA,NA,NA,2023-03-09
+Xavier 86-73 (87%),7:00 pm Fox Sports 1,"New York, NYMadison Square Garden",35.44,NA,NA,147,DePaul,17,Xavier,147,DePaul vs.,17,NA,NA,NA,NA,NA,NA,2023-03-09
+Fordham 74-69 (67%),7:30 pm USA Network,"Brooklyn, NYBarclays Center",35.041,NA,NA,223,La Salle,139,Fordham,223,La Salle vs.,10,NA,NA,NA,NA,NA,NA,2023-03-09
+Dayton 73-64 (78%),5:00 pm USA Network,"Brooklyn, NYBarclays Center",34.242,NA,NA,193,Saint Joseph's,72,Dayton,193,Saint Joseph's vs.,10,NA,NA,NA,NA,NA,NA,2023-03-09
+UCF 73-63 (80%),2:30 pm ESPNU,"Fort Worth, TXDickies Arena",33.643,NA,NA,187,SMU,62,UCF,187,SMU vs.,62,NA,NA,NA,NA,NA,NA,2023-03-09
+Florida Atlantic 80-67 (87%),6:30 pm ESPN Plus,"Frisco, TXFord Center at The Star",31.044,NA,NA,177,Western Kentucky,28,Florida Atlantic,177,Western Kentucky vs.,28,NA,NA,NA,NA,NA,NA,2023-03-09
+UAB 86-75 (84%),9:30 pm ESPN Plus,"Frisco, TXFord Center at The Star",30.745,NA,NA,208,Rice,61,UAB,208,Rice vs.,61,NA,NA,NA,NA,NA,NA,2023-03-09
+Siena 68-64 (63%),9:30 pm ESPN Plus,"Atlantic City, NJBoardwalk Hall",30.746,NA,NA,261,Niagara,203,Siena,261,Niagara vs.,203,NA,NA,NA,NA,NA,NA,2023-03-09
+Prairie View A&M 69-67 (57%),3:00 pm,"Birmingham, ALBartow Arena",29.847,NA,NA,268,Prairie View A&M,300,Jackson St.,268,Prairie View A&M vs.,300,NA,NA,NA,NA,NA,NA,2023-03-09
+Southern 71-69 (59%),9:30 pm,"Birmingham, ALBartow Arena",29.648,NA,NA,306,Alabama A&M,260,Southern,306,Alabama A&M vs.,260,NA,NA,NA,NA,NA,NA,2023-03-09
+Maryland Eastern Shore 69-66 (64%),6:00 pm,"Norfolk, VANorfolk Scope Arena",28.149,NA,NA,310,Morgan State,247,Maryland-Eastern Shore,310,Morgan St. vs.,247,NA,NA,NA,NA,NA,NA,2023-03-09
+Quinnipiac 74-66 (74%),7:00 pm ESPN Plus,"Atlantic City, NJBoardwalk Hall",25.85,NA,NA,299,Marist,174,Quinnipiac,299,Marist vs.,174,NA,NA,NA,NA,NA,NA,2023-03-09
+Maryland 74-60 (90%),9:00 pm Big Ten Network,"Chicago, ILUnited Center",24.751,NA,NA,216,Minnesota,20,Maryland,216,Minnesota vs.,10,NA,NA,NA,NA,NA,NA,2023-03-09
+Kent St. 76-65 (86%),4:00 pm ESPN Plus,"Cleveland, OHRocket Mortgage Fieldhouse",24.452,NA,NA,240,Northern Illinois,79,Kent State,240,Northern Illinois vs.,79,NA,NA,NA,NA,NA,NA,2023-03-09
+Toledo 87-75 (87%),11:00 am ESPN Plus,"Cleveland, OHRocket Mortgage Fieldhouse",23.453,NA,NA,265,Miami (OH),85,Toledo,265,Miami OH vs.,85,NA,NA,NA,NA,NA,NA,2023-03-09
+UC Santa Barbara 69-59 (82%),9:00 pm ESPN Plus,"Henderson, NVDollar Loan Center",22.054,NA,NA,290,Cal Poly,107,UC Santa Barbara,290,Cal Poly vs.,107,NA,NA,NA,NA,NA,NA,2023-03-09
+UC Irvine 71-60 (84%),3:00 pm ESPN Plus,"Henderson, NVDollar Loan Center",21.355,NA,NA,284,CSU Bakersfield,98,UC Irvine,284,Cal St. Bakersfield vs.,98,NA,NA,NA,NA,NA,NA,2023-03-09
+Norfolk St. 83-73 (80%),8:00 pm,"Norfolk, VANorfolk Scope Arena",21.256,NA,NA,336,Coppin State,202,Norfolk State,336,Coppin St. vs.,202,NA,NA,NA,NA,NA,NA,2023-03-09
+Wichita St. 76-63 (87%),7:00 pm ESPNU,"Fort Worth, TXDickies Arena",18.257,NA,NA,313,Tulsa,104,Wichita State,313,Tulsa vs.,104,NA,NA,NA,NA,NA,NA,2023-03-09
