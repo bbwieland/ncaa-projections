@@ -1,24 +1,6 @@
 prediction,time_et,location,thrill_score,comeback,excitement,road_rk,road_team,home_rk,home_team,win_rk,win_team,win_score,loss_rk,loss_team,loss_score,poss,mvp,event,date
-Kansas 74-73 (51%),6:00 pm ESPN,"Kansas City, MOT-Mobile Center",83.01,NA,NA,9,Texas,8,Kansas,9,Texas vs.,12,NA,NA,NA,NA,NA,NA,2023-03-11
-Marquette 82-81 (52%),6:30 pm FOX,"New York, NYMadison Square Garden",81.62,NA,NA,14,Xavier,12,Marquette,14,Xavier vs.,12,NA,NA,NA,NA,NA,NA,2023-03-11
-UCLA 77-73 (64%),10:30 pm ESPN,"Las Vegas, NVT-Mobile Arena",81.13,NA,NA,10,Arizona,2,UCLA,10,Arizona vs.,12,NA,NA,NA,NA,NA,NA,2023-03-11
-San Diego St. 73-72 (52%),6:00 pm CBS,"Las Vegas, NVThomas & Mack Center",77.04,NA,NA,18,Utah State,15,San Diego State,18,Utah St. vs.,15,NA,NA,NA,NA,NA,NA,2023-03-11
-Duke 63-62 (52%),8:30 pm ESPN,"Greensboro, NCGreensboro Coliseum",70.95,NA,NA,24,Duke,31,Virginia,24,Duke vs.,31,NA,NA,NA,NA,NA,NA,2023-03-11
-Indiana 74-72 (58%),3:30 pm CBS,"Chicago, ILUnited Center",70.16,NA,NA,47,Penn State,27,Indiana,47,Penn St. vs.,10,NA,NA,NA,NA,NA,NA,2023-03-11
-Florida Atlantic 78-75 (59%),8:30 pm CBS Sports Network,"Frisco, TXFord Center at The Star",69.57,NA,NA,54,UAB,29,Florida Atlantic,54,UAB vs.,29,NA,NA,NA,NA,NA,NA,2023-03-11
-Purdue 74-68 (72%),1:00 pm CBS,"Chicago, ILUnited Center",65.48,NA,NA,49,Ohio State,6,Purdue,49,Ohio St. vs.,10,NA,NA,NA,NA,NA,NA,2023-03-11
-Texas A&M 75-70 (67%),3:30 pm ESPN,"Nashville, TNBridgestone Arena",62.29,NA,NA,79,Vanderbilt,20,Texas A&M,79,Vanderbilt vs.,20,NA,NA,NA,NA,NA,NA,2023-03-11
-Kent St. 79-78 (53%),7:30 pm ESPN2,"Cleveland, OHRocket Mortgage Fieldhouse",61.31,NA,NA,78,Kent State,83,Toledo,78,Kent St. vs.,83,NA,NA,NA,NA,NA,NA,2023-03-11
-Alabama 86-77 (80%),1:00 pm ESPN,"Nashville, TNBridgestone Arena",60.611,NA,NA,51,Missouri,3,Alabama,51,Missouri vs.,3,NA,NA,NA,NA,NA,NA,2023-03-11
-VCU 73-70 (61%),1:00 pm CBS Sports Network,"Brooklyn, NYBarclays Center",56.212,NA,NA,94,Saint Louis,70,VCU,94,Saint Louis vs.,10,NA,NA,NA,NA,NA,NA,2023-03-11
-Houston 74-64 (82%),3:00 pm ESPN2,"Fort Worth, TXDickies Arena",56.213,NA,NA,52,Cincinnati,1,Houston,52,Cincinnati vs.,1,NA,NA,NA,NA,NA,NA,2023-03-11
-Memphis 86-79 (74%),5:00 pm ESPN2,"Fort Worth, TXDickies Arena",53.814,NA,NA,99,Tulane,33,Memphis,99,Tulane vs.,33,NA,NA,NA,NA,NA,NA,2023-03-11
-Southern Utah 78-77 (54%),11:30 pm ESPN2,"Paradise, NVOrleans Arena",51.615,NA,NA,112,Grand Canyon,103,Southern Utah,112,Grand Canyon vs.,103,NA,NA,NA,NA,NA,NA,2023-03-11
-UC Santa Barbara 68-67 (53%),9:30 pm ESPN2,"Henderson, NVDollar Loan Center",48.616,NA,NA,114,CSU Fullerton,109,UC Santa Barbara,114,Cal St. Fullerton vs.,109,NA,NA,NA,NA,NA,NA,2023-03-11
-Yale 81-74 (73%),11:00 am ESPNU,"Princeton, NJL. Stockwell Jadwin Gymnasium",44.317,NA,NA,142,Cornell,68,Yale,142,Cornell vs.,68,NA,NA,NA,NA,NA,NA,2023-03-11
-Dayton 68-63 (70%),3:30 pm CBS Sports Network,"Brooklyn, NYBarclays Center",44.018,NA,NA,138,Fordham,74,Dayton,138,Fordham vs.,10,NA,NA,NA,NA,NA,NA,2023-03-11
-Princeton 76-72 (65%),1:30 pm ESPNU,"Princeton, NJJadwin Gymnasium",42.319,NA,NA,132,Pennsylvania,117,Princeton,132,Penn,117,NA,NA,NA,NA,NA,NA,2023-03-11
-Vermont 75-70 (66%),11:00 am ESPN2,"Burlington, VTPatrick Gymnasium",41.62,NA,NA,134,UMass Lowell,113,Vermont,134,UMass Lowell,113,NA,NA,NA,NA,NA,NA,2023-03-11
-Norfolk St. 74-73 (55%),1:00 pm ESPN2,"Norfolk, VANorfolk Scope Arena",37.221,NA,NA,192,Norfolk State,218,Howard,192,Norfolk St. vs.,218,NA,NA,NA,NA,NA,NA,2023-03-11
-Grambling St. 70-63 (73%),5:30 pm ESPNU,"Birmingham, ALBartow Arena",26.022,NA,NA,294,Texas Southern,170,Grambling,294,Texas Southern vs.,170,NA,NA,NA,NA,NA,NA,2023-03-11
-Iona 76-62 (89%),7:30 pm ESPNU,"Atlantic City, NJBoardwalk Hall",19.023,NA,NA,276,Marist,76,Iona,276,Marist vs.,76,NA,NA,NA,NA,NA,NA,2023-03-11
+Alabama 76-70 (70%),1:00 pm ESPN,"Nashville, TNBridgestone Arena",72.91,NA,NA,19,Texas A&M,3,Alabama,19,Texas A&M vs.,3,NA,NA,NA,NA,NA,NA,2023-03-12
+Purdue 73-67 (71%),3:30 pm CBS,"Chicago, ILUnited Center",66.32,NA,NA,43,Penn State,5,Purdue,43,Penn St. vs.,10,NA,NA,NA,NA,NA,NA,2023-03-12
+Houston 75-67 (77%),3:15 pm ESPN,"Fort Worth, TXDickies Arena",65.63,NA,NA,28,Memphis,1,Houston,28,Memphis vs.,1,NA,NA,NA,NA,NA,NA,2023-03-12
+VCU 65-64 (51%),1:00 pm CBS,"Brooklyn, NYBarclays Center",61.14,NA,NA,73,Dayton,67,VCU,73,Dayton vs.,10,NA,NA,NA,NA,NA,NA,2023-03-12
+Yale 71-69 (58%),12:00 pm ESPN2,"Princeton, NJL. Stockwell Jadwin Gymnasium",55.15,NA,NA,61,Yale,116,Princeton,61,Yale,116,NA,NA,NA,NA,NA,NA,2023-03-12
