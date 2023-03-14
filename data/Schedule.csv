@@ -1,6 +1,11 @@
 prediction,time_et,location,thrill_score,comeback,excitement,road_rk,road_team,home_rk,home_team,win_rk,win_team,win_score,loss_rk,loss_team,loss_score,poss,mvp,event,date
-Alabama 76-70 (70%),1:00 pm ESPN,"Nashville, TNBridgestone Arena",72.91,NA,NA,19,Texas A&M,3,Alabama,19,Texas A&M vs.,3,NA,NA,NA,NA,NA,NA,2023-03-12
-Purdue 73-67 (71%),3:30 pm CBS,"Chicago, ILUnited Center",66.32,NA,NA,43,Penn State,5,Purdue,43,Penn St. vs.,10,NA,NA,NA,NA,NA,NA,2023-03-12
-Houston 75-67 (77%),3:15 pm ESPN,"Fort Worth, TXDickies Arena",65.63,NA,NA,28,Memphis,1,Houston,28,Memphis vs.,1,NA,NA,NA,NA,NA,NA,2023-03-12
-VCU 65-64 (51%),1:00 pm CBS,"Brooklyn, NYBarclays Center",61.14,NA,NA,73,Dayton,67,VCU,73,Dayton vs.,10,NA,NA,NA,NA,NA,NA,2023-03-12
-Yale 71-69 (58%),12:00 pm ESPN2,"Princeton, NJL. Stockwell Jadwin Gymnasium",55.15,NA,NA,61,Yale,116,Princeton,61,Yale,116,NA,NA,NA,NA,NA,NA,2023-03-12
+Mississippi St. 67-65 (57%),9:10 pm tru TV,"Dayton, OHUniversity of Dayton Arena",62.01,NA,NA,77,Pittsburgh,49,Mississippi St. NCAA,77,Pittsburgh vs.,49,NA,NA,NA,NA,NA,NA,2023-03-14
+Vanderbilt 76-74 (58%),9:00 pm ESPNU,"Nashville, TNMemorial Gym",60.72,NA,NA,67,Yale,80,Vanderbilt,67,Yale,80,NA,NA,NA,NA,NA,NA,2023-03-14
+Liberty 72-68 (65%),9:00 pm ESPN2,"Lynchburg, VALiberty Arena",59.63,NA,NA,60,Villanova,48,Liberty,60,Villanova,48,NA,NA,NA,NA,NA,NA,2023-03-14
+Colorado 71-67 (64%),11:00 pm ESPN2,"Boulder, COCU Events Center",58.24,NA,NA,70,Seton Hall,59,Colorado,70,Seton Hall,59,NA,NA,NA,NA,NA,NA,2023-03-14
+Michigan 87-79 (74%),7:00 pm ESPN2,"Ann Arbor, MICrisler Center",51.45,NA,NA,87,Toledo,46,Michigan,87,Toledo,46,NA,NA,NA,NA,NA,NA,2023-03-14
+Wisconsin 66-62 (66%),9:30 pm ESPN,"Madison, WIKohl Center",50.56,NA,NA,86,Bradley,76,Wisconsin,86,Bradley,76,NA,NA,NA,NA,NA,NA,2023-03-14
+UAB 82-74 (74%),7:30 pm ESPN Plus,"Birmingham, ALBartow Arena",46.87,NA,NA,98,Southern Miss,62,UAB,98,Southern Miss,62,NA,NA,NA,NA,NA,NA,2023-03-14
+Rutgers 72-64 (77%),7:00 pm ESPNU,"Piscataway, NJJersey Mike's Arena",45.18,NA,NA,90,Hofstra,35,Rutgers,90,Hofstra,35,NA,NA,NA,NA,NA,NA,2023-03-14
+Washington St. 80-71 (80%),11:00 pm ESPNU,"Pullman, WAWallis Beasley Performing Arts",37.69,NA,NA,122,Eastern Washington,57,Washington State,122,Eastern Washington,57,NA,NA,NA,NA,NA,NA,2023-03-14
+Texas A&M Corpus Chris 81-76 (68%),6:40 pm tru TV,"Dayton, OHUniversity of Dayton Arena",32.31,NA,NA,257,Southeast Missouri State,170,Texas A&M Corpus Chris NCAA,257,Southeast Missouri St. vs.,170,NA,NA,NA,NA,NA,NA,2023-03-14
