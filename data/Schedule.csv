@@ -1,17 +1,15 @@
 prediction,time_et,location,thrill_score,comeback,excitement,road_rk,road_team,home_rk,home_team,win_rk,win_team,win_score,loss_rk,loss_team,loss_score,poss,mvp,event,date
 Memphis 77-76 (51%),9:20 pm TNT,"Columbus, OHNationwide Arena",76.71,NA,NA,23,Florida Atlantic,20,Memphis,23,Florida Atlantic vs.,20,NA,NA,NA,NA,NA,NA,2023-03-17
 Kentucky 75-74 (57%),7:10 pm CBS,"Greensboro, NCGreensboro Coliseum",71.22,NA,NA,44,Providence,26,Kentucky,44,Providence vs.,26,NA,NA,NA,NA,NA,NA,2023-03-17
-Michigan St. 70-69 (53%),12:15 pm CBS,"Columbus, OHNationwide Arena",70.73,NA,NA,36,USC,31,Michigan State,36,USC vs.,31,NA,NA,NA,NA,NA,NA,2023-03-17
 TCU 72-69 (61%),10:05 pm tru TV,"Denver, COBall Arena",67.54,NA,NA,55,Arizona State,25,TCU,55,Arizona St. vs.,25,NA,NA,NA,NA,NA,NA,2023-03-17
 Creighton 76-71 (68%),4:00 pm TNT,"Denver, COBall Arena",66.15,NA,NA,56,NC State,13,Creighton,56,N.C. State vs.,13,NA,NA,NA,NA,NA,NA,2023-03-17
 Miami FL 75-73 (57%),7:25 pm TBS,"Albany, NYMVP Arena",66.16,NA,NA,67,Drake,43,Miami,67,Drake vs.,43,NA,NA,NA,NA,NA,NA,2023-03-17
 Indiana 73-69 (64%),9:55 pm TBS,"Albany, NYMVP Arena",63.97,NA,NA,70,Kent State,27,Indiana,70,Kent St. vs.,27,NA,NA,NA,NA,NA,NA,2023-03-17
 Saint Mary's 65-59 (68%),2:00 pm TBS,"Albany, NYMVP Arena",62.98,NA,NA,57,VCU,12,Saint Mary's,57,VCU vs.,12,NA,NA,NA,NA,NA,NA,2023-03-17
-Iowa St. 70-66 (66%),3:10 pm tru TV,"Greensboro, NCGreensboro Coliseum",62.49,NA,NA,77,Pittsburgh,22,Iowa State,77,Pittsburgh vs.,22,NA,NA,NA,NA,NA,NA,2023-03-17
+Iowa St. 70-66 (66%),3:31 pm tru TV,"Greensboro, NCGreensboro Coliseum",62.49,NA,NA,77,Pittsburgh,22,Iowa State,77,Pittsburgh vs.,22,NA,NA,NA,NA,NA,NA,2023-03-17
 Connecticut 77-68 (80%),4:30 pm TBS,"Albany, NYMVP Arena",55.81,NA,NA,71,Iona,4,Connecticut,71,Iona vs.,4,NA,NA,NA,NA,NA,NA,2023-03-17
 Baylor 79-70 (79%),1:30 pm TNT,"Denver, COBall Arena",48.411,NA,NA,104,UC Santa Barbara,14,Baylor,104,UC Santa Barbara vs.,14,NA,NA,NA,NA,NA,NA,2023-03-17
 Kansas St. 74-65 (78%),9:40 pm CBS,"Greensboro, NCGreensboro Coliseum",46.212,NA,NA,110,Montana State,24,Kansas State,110,Montana St. vs.,24,NA,NA,NA,NA,NA,NA,2023-03-17
-Marquette 78-67 (84%),2:45 pm CBS,"Columbus, OHNationwide Arena",43.013,NA,NA,113,Vermont,11,Marquette,113,Vermont vs.,11,NA,NA,NA,NA,NA,NA,2023-03-17
+Marquette 78-67 (84%),2:51 pm CBS,"Columbus, OHNationwide Arena",43.013,NA,NA,113,Vermont,11,Marquette,113,Vermont vs.,11,NA,NA,NA,NA,NA,NA,2023-03-17
 Gonzaga 85-73 (87%),7:35 pm tru TV,"Denver, COBall Arena",42.114,NA,NA,109,Grand Canyon,8,Gonzaga,109,Grand Canyon vs.,8,NA,NA,NA,NA,NA,NA,2023-03-17
-Xavier 83-71 (85%),12:40 pm tru TV,"Greensboro, NCGreensboro Coliseum",39.215,NA,NA,129,Kennesaw State,15,Xavier,129,Kennesaw St. vs.,15,NA,NA,NA,NA,NA,NA,2023-03-17
 Purdue 87-64 (98%),6:50 pm TNT,"Columbus, OHNationwide Arena",13.216,NA,NA,299,Fairleigh Dickinson,6,Purdue,299,Fairleigh Dickinson vs.,6,NA,NA,NA,NA,NA,NA,2023-03-17
