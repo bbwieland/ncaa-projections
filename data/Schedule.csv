@@ -1,15 +1,15 @@
 prediction,time_et,location,thrill_score,comeback,excitement,road_rk,road_team,home_rk,home_team,win_rk,win_team,win_score,loss_rk,loss_team,loss_score,poss,mvp,event,date
-Memphis 77-76 (51%),9:20 pm TNT,"Columbus, OHNationwide Arena",76.71,NA,NA,23,Florida Atlantic,20,Memphis,23,Florida Atlantic vs.,20,NA,NA,NA,NA,NA,NA,2023-03-17
-Kentucky 75-74 (57%),7:10 pm CBS,"Greensboro, NCGreensboro Coliseum",71.22,NA,NA,44,Providence,26,Kentucky,44,Providence vs.,26,NA,NA,NA,NA,NA,NA,2023-03-17
-TCU 72-69 (61%),10:05 pm tru TV,"Denver, COBall Arena",67.54,NA,NA,55,Arizona State,25,TCU,55,Arizona St. vs.,25,NA,NA,NA,NA,NA,NA,2023-03-17
-Creighton 76-71 (68%),4:00 pm TNT,"Denver, COBall Arena",66.15,NA,NA,56,NC State,13,Creighton,56,N.C. State vs.,13,NA,NA,NA,NA,NA,NA,2023-03-17
-Miami FL 75-73 (57%),7:25 pm TBS,"Albany, NYMVP Arena",66.16,NA,NA,67,Drake,43,Miami,67,Drake vs.,43,NA,NA,NA,NA,NA,NA,2023-03-17
-Indiana 73-69 (64%),9:55 pm TBS,"Albany, NYMVP Arena",63.97,NA,NA,70,Kent State,27,Indiana,70,Kent St. vs.,27,NA,NA,NA,NA,NA,NA,2023-03-17
-Saint Mary's 65-59 (68%),2:00 pm TBS,"Albany, NYMVP Arena",62.98,NA,NA,57,VCU,12,Saint Mary's,57,VCU vs.,12,NA,NA,NA,NA,NA,NA,2023-03-17
-Iowa St. 70-66 (66%),3:31 pm tru TV,"Greensboro, NCGreensboro Coliseum",62.49,NA,NA,77,Pittsburgh,22,Iowa State,77,Pittsburgh vs.,22,NA,NA,NA,NA,NA,NA,2023-03-17
-Connecticut 77-68 (80%),4:30 pm TBS,"Albany, NYMVP Arena",55.81,NA,NA,71,Iona,4,Connecticut,71,Iona vs.,4,NA,NA,NA,NA,NA,NA,2023-03-17
-Baylor 79-70 (79%),1:30 pm TNT,"Denver, COBall Arena",48.411,NA,NA,104,UC Santa Barbara,14,Baylor,104,UC Santa Barbara vs.,14,NA,NA,NA,NA,NA,NA,2023-03-17
-Kansas St. 74-65 (78%),9:40 pm CBS,"Greensboro, NCGreensboro Coliseum",46.212,NA,NA,110,Montana State,24,Kansas State,110,Montana St. vs.,24,NA,NA,NA,NA,NA,NA,2023-03-17
-Marquette 78-67 (84%),2:51 pm CBS,"Columbus, OHNationwide Arena",43.013,NA,NA,113,Vermont,11,Marquette,113,Vermont vs.,11,NA,NA,NA,NA,NA,NA,2023-03-17
-Gonzaga 85-73 (87%),7:35 pm tru TV,"Denver, COBall Arena",42.114,NA,NA,109,Grand Canyon,8,Gonzaga,109,Grand Canyon vs.,8,NA,NA,NA,NA,NA,NA,2023-03-17
-Purdue 87-64 (98%),6:50 pm TNT,"Columbus, OHNationwide Arena",13.216,NA,NA,299,Fairleigh Dickinson,6,Purdue,299,Fairleigh Dickinson vs.,6,NA,NA,NA,NA,NA,NA,2023-03-17
+Kansas 74-70 (62%),5:15 pm CBS,"Des Moines, IAWells Fargo Arena",76.31,NA,NA,19,Arkansas,9,Kansas,19,Arkansas vs.,9,NA,NA,NA,NA,NA,NA,2023-03-18
+Tennessee 64-61 (61%),2:40 pm CBS,"Orlando, FLAmway Center",75.02,NA,NA,16,Duke,6,Tennessee,16,Duke vs.,6,NA,NA,NA,NA,NA,NA,2023-03-18
+Alabama 74-68 (71%),9:40 pm TBS,"Birmingham, ALLegacy Arena",71.83,NA,NA,20,Maryland,3,Alabama,20,Maryland vs.,3,NA,NA,NA,NA,NA,NA,2023-03-18
+Texas 75-69 (70%),7:45 pm CBS,"Des Moines, IAWells Fargo Arena",69.44,NA,NA,34,Penn State,5,Texas,34,Penn St. vs.,5,NA,NA,NA,NA,NA,NA,2023-03-18
+Houston 70-63 (74%),7:10 pm TBS,"Birmingham, ALLegacy Arena",67.15,NA,NA,27,Auburn,1,Houston,27,Auburn vs.,1,NA,NA,NA,NA,NA,NA,2023-03-18
+Vanderbilt 78-77 (52%),12:00 pm ESPN,"Nashville, TNMemorial Gym",66.06,NA,NA,42,Michigan,80,Vanderbilt,42,Michigan,80,NA,NA,NA,NA,NA,NA,2023-03-18
+Hofstra 77-76 (50%),2:00 pm ESPN Plus,"Hempstead, NYMack Sports Complex",62.47,NA,NA,53,Cincinnati,86,Hofstra,53,Cincinnati,86,NA,NA,NA,NA,NA,NA,2023-03-18
+UCLA 67-59 (77%),8:40 pm TNT,"Sacramento, CAGolden 1 Center",61.58,NA,NA,36,Northwestern,2,UCLA,36,Northwestern vs.,2,NA,NA,NA,NA,NA,NA,2023-03-18
+San Diego St. 75-68 (74%),12:10 pm CBS,"Orlando, FLAmway Center",55.09,NA,NA,87,Furman,17,San Diego State,87,Furman vs.,17,NA,NA,NA,NA,NA,NA,2023-03-18
+Missouri 80-74 (69%),6:10 pm TNT,"Sacramento, CAGolden 1 Center",54.21,NA,NA,98,Princeton,48,Missouri,98,Princeton vs.,48,NA,NA,NA,NA,NA,NA,2023-03-18
+Charlotte 72-65 (71%),5:30 pm,"Daytona Beach, FLOcean Center",32.311,NA,NA,235,Western Carolina,120,Charlotte,235,Western Carolina vs.,120,NA,NA,NA,NA,NA,NA,2023-03-18
+Southern Utah 88-79 (79%),1:00 pm,"Daytona Beach, FLOcean Center",29.212,NA,NA,251,North Alabama,111,Southern Utah,251,North Alabama vs.,111,NA,NA,NA,NA,NA,NA,2023-03-18
+Indiana St. 82-72 (83%),11:00 am,"Daytona Beach, FLOcean Center",25.513,NA,NA,259,South Carolina Upstate,96,Indiana State,259,USC Upstate vs.,96,NA,NA,NA,NA,NA,NA,2023-03-18
+San Jose St. 79-69 (82%),3:30 pm,"Daytona Beach, FLOcean Center",24.914,NA,NA,266,Southern Indiana,97,San José State,266,Southern Indiana vs.,97,NA,NA,NA,NA,NA,NA,2023-03-18
