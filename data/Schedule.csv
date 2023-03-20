@@ -1,19 +1,5 @@
 prediction,time_et,location,thrill_score,comeback,excitement,road_rk,road_team,home_rk,home_team,win_rk,win_team,win_score,loss_rk,loss_team,loss_score,poss,mvp,event,date
-Creighton 75-74 (52%),7:10 pm TBS,"Denver, COBall Arena",79.31,NA,NA,13,Creighton,15,Baylor,13,Creighton vs.,15,NA,NA,NA,NA,NA,NA,2023-03-19
-Connecticut 66-63 (59%),6:10 pm TNT,"Albany, NYMVP Arena",78.92,NA,NA,12,Saint Mary's,4,Connecticut,12,Saint Mary's vs.,4,NA,NA,NA,NA,NA,NA,2023-03-19
-Gonzaga 81-77 (66%),9:40 pm TBS,"Denver, COBall Arena",75.53,NA,NA,25,TCU,7,Gonzaga,25,TCU vs.,7,NA,NA,NA,NA,NA,NA,2023-03-19
-Kansas St. 74-73 (51%),2:40 pm CBS,"Greensboro, NCGreensboro Coliseum",75.14,NA,NA,23,Kentucky,22,Kansas State,23,Kentucky vs.,22,NA,NA,NA,NA,NA,NA,2023-03-19
-Marquette 73-70 (62%),5:15 pm CBS,"Columbus, OHNationwide Arena",74.05,NA,NA,28,Michigan State,10,Marquette,28,Michigan St. vs.,10,NA,NA,NA,NA,NA,NA,2023-03-19
-Indiana 78-76 (56%),8:40 pm TNT,"Albany, NYMVP Arena",72.66,NA,NA,39,Miami,26,Indiana,39,Miami FL vs.,26,NA,NA,NA,NA,NA,NA,2023-03-19
-Xavier 81-76 (67%),12:10 pm CBS,"Greensboro, NCGreensboro Coliseum",66.87,NA,NA,62,Pittsburgh,16,Xavier,62,Pittsburgh vs.,16,NA,NA,NA,NA,NA,NA,2023-03-19
-Wisconsin 66-64 (57%),12:00 pm ESPN2,"Madison, WIKohl Center",62.08,NA,NA,48,Liberty,68,Wisconsin,48,Liberty,68,NA,NA,NA,NA,NA,NA,2023-03-19
-Oregon 72-68 (65%),7:30 pm ESPNU,"Eugene, ORMatthew Knight Arena",61.69,NA,NA,50,UCF,38,Oregon,50,UCF,38,NA,NA,NA,NA,NA,NA,2023-03-19
-Colorado 74-70 (64%),9:30 pm ESPNU,"Boulder, COCU Events Center",58.21,NA,NA,70,Utah Valley,60,Colorado,70,Utah Valley,60,NA,NA,NA,NA,NA,NA,2023-03-19
-North Texas 62-57 (66%),4:00 pm ESPN Plus,"Denton, TXThe Super Pit",55.711,NA,NA,64,Sam Houston State,44,North Texas,64,Sam Houston St.,44,NA,NA,NA,NA,NA,NA,2023-03-19
-Eastern Kentucky 74-73 (52%),11:00 am,"Daytona Beach, FLOcean Center",40.112,NA,NA,178,Cleveland State,168,Eastern Kentucky,178,Cleveland St. vs.,168,NA,NA,NA,NA,NA,NA,2023-03-19
-Tarleton St. 70-69 (54%),3:30 pm,"Daytona Beach, FLOcean Center",39.413,NA,NA,183,Radford,159,Tarleton St.,183,Radford vs.,159,NA,NA,NA,NA,NA,NA,2023-03-19
-Duquesne 83-78 (67%),1:00 pm,"Daytona Beach, FLOcean Center",38.014,NA,NA,213,Rice,124,Duquesne,213,Rice vs.,124,NA,NA,NA,NA,NA,NA,2023-03-19
-Stetson 83-80 (62%),5:30 pm,"Daytona Beach, FLOcean Center",37.115,NA,NA,227,Milwaukee,165,Stetson,227,Milwaukee vs.,165,NA,NA,NA,NA,NA,NA,2023-03-19
-Oklahoma St. 80-69 (83%),2:00 pm ESPN2,"Stillwater, OKGallagher-Iba Arena",36.716,NA,NA,118,Eastern Washington,41,Oklahoma State,118,Eastern Washington,41,NA,NA,NA,NA,NA,NA,2023-03-19
-UAB 81-65 (93%),3:00 pm ESPN Plus,"Birmingham, ALBartow Arena",17.217,NA,NA,236,Morehead State,52,UAB,236,Morehead St.,52,NA,NA,NA,NA,NA,NA,2023-03-19
-Florida Atlantic 86-67 (96%),7:45 pm tru TV,"Columbus, OHNationwide Arena",16.118,NA,NA,274,Fairleigh Dickinson,21,Florida Atlantic,274,Fairleigh Dickinson vs.,21,NA,NA,NA,NA,NA,NA,2023-03-19
+Indiana St. 81-77 (66%),12:00 pm,"Daytona Beach, FLOcean Center",43.71,NA,NA,161,Eastern Kentucky,98,Indiana State,161,Eastern Kentucky vs.,98,NA,NA,NA,NA,NA,NA,2023-03-20
+San Jose St. 70-65 (68%),4:30 pm,"Daytona Beach, FLOcean Center",39.32,NA,NA,178,Radford,93,San José State,178,Radford vs.,93,NA,NA,NA,NA,NA,NA,2023-03-20
+Southern Utah 87-81 (72%),2:00 pm,"Daytona Beach, FLOcean Center",38.23,NA,NA,202,Rice,105,Southern Utah,202,Rice vs.,105,NA,NA,NA,NA,NA,NA,2023-03-20
+Charlotte 75-69 (72%),6:30 pm,"Daytona Beach, FLOcean Center",33.54,NA,NA,226,Milwaukee,115,Charlotte,226,Milwaukee vs.,115,NA,NA,NA,NA,NA,NA,2023-03-20
