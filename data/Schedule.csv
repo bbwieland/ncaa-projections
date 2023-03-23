@@ -1,4 +1,5 @@
 prediction,time_et,location,thrill_score,comeback,excitement,road_rk,road_team,home_rk,home_team,win_rk,win_team,win_score,loss_rk,loss_team,loss_score,poss,mvp,event,date
-Vanderbilt 80-79 (53%),7:00 pm ESPN2,"Nashville, TNMemorial Gym",65.41,NA,NA,49,UAB,80,Vanderbilt,49,UAB,80,NA,NA,NA,NA,NA,NA,2023-03-22
-Utah Valley 76-74 (57%),9:00 pm ESPN2,"Orem, UTUCCU Events Center",65.02,NA,NA,48,Cincinnati,65,Utah Valley,48,Cincinnati,65,NA,NA,NA,NA,NA,NA,2023-03-22
-Charlotte 71-68 (60%),5:00 pm ESPN2,"Daytona Beach, FLOcean Center",43.73,NA,NA,148,Eastern Kentucky,111,Charlotte,148,Eastern Kentucky vs.,111,NA,NA,NA,NA,NA,NA,2023-03-22
+UCLA 76-73 (59%),9:45 pm CBS,"Las Vegas, NVT-Mobile Arena",83.51,NA,NA,7,Gonzaga,3,UCLA,7,Gonzaga vs.,3,NA,NA,NA,NA,NA,NA,2023-03-23
+Kansas St. 70-69 (51%),6:30 pm TBS,"New York, NYMadison Square Garden",74.12,NA,NA,24,Michigan State,22,Kansas State,24,Michigan St. vs.,22,NA,NA,NA,NA,NA,NA,2023-03-23
+Tennessee 68-64 (64%),9:00 pm TBS,"New York, NYMadison Square Garden",73.63,NA,NA,21,Florida Atlantic,6,Tennessee,21,Florida Atlantic vs.,6,NA,NA,NA,NA,NA,NA,2023-03-23
+Connecticut 75-69 (69%),7:15 pm CBS,"Las Vegas, NVT-Mobile Arena",73.24,NA,NA,18,Arkansas,4,Connecticut,18,Arkansas vs.,4,NA,NA,NA,NA,NA,NA,2023-03-23
